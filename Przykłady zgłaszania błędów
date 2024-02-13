@@ -1,0 +1,61 @@
+1. Błąd w wyświetlaniu wyników wyszukiwania:
+   Opis defektu: Wyniki wyszukiwania nie są wyświetlane poprawnie dla niektórych zapytań.
+   Tytuł: Błąd w wyświetlaniu wyników wyszukiwania.
+   Kroki prowadzące do odtworzenia błędu:
+     1. Wprowadź określone zapytanie w pole wyszukiwania.
+     2. Naciśnij klawisz Enter lub kliknij przycisk wyszukiwania.
+   Rezultat aktualny: Niektóre wyniki wyszukiwania nie są wyświetlane lub wyświetlane niepoprawnie.
+   Rezultat oczekiwany: Wszystkie odpowiednie wyniki powinny być wyświetlane w sposób czytelny i zgodny z zapytaniem użytkownika.
+   Środowisko: Przeglądarka Google Chrome.
+   Priorytet: Wysoki.
+   Ważność: Pilne.
+
+2. Problem z dodawaniem produktów do koszyka:
+   Opis defektu: Niektóre produkty nie można dodać do koszyka zakupów.
+   Tytuł: Problem z dodawaniem produktów do koszyka.
+   Kroki prowadzące do odtworzenia błędu:
+     1. Wybierz produkt, który chcesz dodać do koszyka.
+     2. Kliknij przycisk "Dodaj do koszyka".
+   Rezultat aktualny: Produkt nie jest dodany do koszyka, a użytkownik otrzymuje komunikat o błędzie.
+   Rezultat oczekiwany: Wybrany produkt jest dodany do koszyka, a użytkownik może kontynuować zakupy.
+   Środowisko: Przeglądarka Google Chrome.
+   Priorytet: Wysoki.
+   Ważność: Pilne.
+
+3. Błąd w procesie rejestracji konta:
+   Opis defektu: Użytkownicy napotykają problem podczas procesu rejestracji konta.
+   Tytuł: Błąd w procesie rejestracji konta.
+   Kroki prowadzące do odtworzenia błędu:
+     1. Wejdź na stronę rejestracji konta Allegro.
+     2. Wprowadź wymagane dane rejestracyjne.
+     3. Kliknij przycisk "Załóż konto".
+   Rezultat aktualny: Proces rejestracji nie jest zakończony pomyślnie, a użytkownik otrzymuje komunikat o błędzie.
+   Rezultat oczekiwany: Użytkownik zostaje zarejestrowany poprawnie, a na jego adres e-mail zostaje wysłana wiadomość potwierdzająca rejestrację.
+   Środowisko: Przeglądarka Google Chrome.
+   Priorytet: Wysoki.
+   Ważność: Pilne.
+
+4. Nieprawidłowe sortowanie wyników wyszukiwania:
+   Opis defektu: Wyniki wyszukiwania nie są prawidłowo sortowane według wybranych kryteriów.
+   Tytuł: Nieprawidłowe sortowanie wyników wyszukiwania.
+   Kroki prowadzące do odtworzenia błędu:
+     1. Wykonaj określone zapytanie w pole wyszukiwania.
+     2. Wybierz opcję sortowania według określonego kryterium.
+   Rezultat aktualny: Wyniki wyszukiwania nie są prawidłowo posortowane zgodnie z wybranym kryterium.
+   Rezultat oczekiwany: Wyniki wyszukiwania są prawidłowo posortowane zgodnie z wybranym kryterium.
+   Środowisko: Przeglądarka Google Chrome.
+   Priorytet: Średni.
+   Ważność: Wysoka.
+
+5. Problem z logowaniem do konta użytkownika:
+   Opis defektu: Użytkownicy napotykają problem podczas próby zalogowania się do swojego konta.
+   Tytuł: Problem z logowaniem do konta użytkownika.
+   Kroki prowadzące do odtworzenia błędu:
+     1. Wejdź na stronę logowania Allegro.
+     2. Wprowadź poprawne dane logowania.
+     3. Kliknij przycisk "Zaloguj się".
+   Rezultat aktualny: Logowanie nie powiedzie się, a użytkownik otrzymuje komunikat o błędzie.
+   Rezultat oczekiwany: Użytkownik zostaje pomyślnie zalogowany do swojego konta.
+   Środowisko: Przeglądarka Google Chrome.
+   Priorytet: Wysoki.
+   Ważność: Pilne.
