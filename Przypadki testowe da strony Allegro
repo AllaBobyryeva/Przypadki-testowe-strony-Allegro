@@ -1,0 +1,44 @@
+1. Wyszukiwanie produktu:
+   Tytuł: Wyszukiwanie produktu za pomocą paska wyszukiwania.
+   Warunek wstępny: Użytkownik znajduje się na stronie głównej Allegro.
+   Środowisko:Przeglądarka Google Chrome.
+   Dane testowe: Nazwa produktu.
+   Kroki wykonania testu: Wprowadź nazwę produktu w pole wyszukiwania, naciśnij klawisz Enter.
+   Oczekiwany rezultat: Wyświetlenie listy produktów pasujących do wprowadzonej nazwy.
+   Warunek końcowy: Użytkownik może przejść do strony wybranego produktu lub kontynuować przeglądanie wyników.
+
+2. Przeglądanie kategorii produktów:
+   Tytuł: Przeglądanie produktów w wybranej kategorii.
+   Warunek wstępny: Użytkownik znajduje się na stronie głównej Allegro.
+   Środowisko: Przeglądarka Google Chrome.
+   Dane testowe: Brak.
+   Kroki wykonania testu: Wybierz kategorię produktów z menu głównego.
+   Oczekiwany rezultat: Wyświetlenie listy produktów należących do wybranej kategorii.
+   Warunek końcowy: Użytkownik może przeglądać oferty produktów z wybranej kategorii.
+
+3. Dodawanie produktu do koszyka:
+   Tytuł: Dodawanie produktu do koszyka zakupów.
+   Warunek wstępny: Użytkownik znajduje się na stronie produktu.
+   Środowisko: Przeglądarka Google Chrome.
+   Dane testowe: Wybrany produkt.
+   Kroki wykonania testu: Kliknij przycisk "Dodaj do koszyka".
+   Oczekiwany rezultat: Produkt zostaje dodany do koszyka zakupów.
+   Warunek końcowy: Użytkownik może kontynuować zakupy lub przejść do realizacji zamówienia.
+
+4. Filtrowanie wyników wyszukiwania:
+   Tytuł: Filtrowanie wyników wyszukiwania z użyciem różnych kryteriów.
+   Warunek wstępny: Użytkownik znajduje się na stronie wyników wyszukiwania.
+   Środowisko: Przeglądarka Google Chrome.
+   Dane testowe: Brak.
+   Kroki wykonania testu: Wybierz różne filtry (np. cena, lokalizacja) i sprawdź wyniki.
+   Oczekiwany rezultat: Produkty w wynikach wyszukiwania są filtrowane zgodnie z wybranymi kryteriami.
+   Warunek końcowy: Użytkownik otrzymuje przefiltrowane wyniki wyszukiwania zgodne z jego preferencjami.
+
+5. Tworzenie nowego konta użytkownika:
+   Tytuł: Tworzenie nowego konta na Allegro.
+   Warunek wstępny: Użytkownik znajduje się na stronie rejestracji Allegro.
+   Środowisko: Przeglądarka Google Chrome.
+   Dane testowe: Poprawne dane rejestracyjne (adres e-mail, hasło).
+   Kroki wykonania testu: Wprowadź wymagane dane rejestracyjne, kliknij przycisk "Załóż konto".
+   Oczekiwany rezultat: Użytkownik zostaje zarejestrowany i może zalogować się do nowo utworzonego konta.
+   Warunek końcowy: Użytkownik ma aktywne konto na Allegro i może korzystać z pełnego zakresu funkcji serwisu.
